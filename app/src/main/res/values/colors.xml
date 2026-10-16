@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Aesthetic Brand Colors -->
+    <color name="primary_violet">#7209B7</color>
+    <color name="primary_violet_dark">#520580</color>
+    <color name="accent_pink">#F72585</color>
+    <color name="accent_cyan">#4CC9F0</color>
+    <color name="accent_blue">#4361EE</color>
+    <color name="accent_purple">#3F37C9</color>
+
+    <!-- Theme Accents selection -->
+    <color name="theme_violet">#7209B7</color>
+    <color name="theme_coral">#FF5964</color>
+    <color name="theme_emerald">#10B981</color>
+    <color name="theme_amber">#F59E0B</color>
+
+    <!-- Status & Priority Colors -->
+    <color name="priority_high_bg">#FFEEEF</color>
+    <color name="priority_high_text">#E63946</color>
+    <color name="priority_medium_bg">#FFF4E5</color>
+    <color name="priority_medium_text">#D97706</color>
+    <color name="priority_low_bg">#E8F5E9</color>
+    <color name="priority_low_text">#2A9D8F</color>
+
+    <!-- Category Tag Colors -->
+    <color name="cat_work_bg">#E0F2FE</color>
+    <color name="cat_work_text">#0284C7</color>
+    <color name="cat_personal_bg">#F3E8FF</color>
+    <color name="cat_personal_text">#7E22CE</color>
+    <color name="cat_fitness_bg">#DCFCE7</color>
+    <color name="cat_fitness_text">#15803D</color>
+    <color name="cat_ideas_bg">#FEF3C7</color>
+    <color name="cat_ideas_text">#B45309</color>
+
+    <!-- Code & Inspector Colors -->
+    <color name="code_bg">#181825</color>
+    <color name="code_text_key">#89B4FA</color>
+    <color name="code_text_val">#A6E3A1</color>
+
+    <!-- Layout Surface Colors -->
+    <color name="bg_light_slate">#F8FAFC</color>
+    <color name="card_surface_light">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider_color">#E2E8F0</color>
+</resources>
